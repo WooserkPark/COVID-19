@@ -10,9 +10,6 @@
 ****   Note2: Data will be updated every Sunday (Each weekly data contain Monday to Sunday observations)
 ********************************************************************************
 
-global master = "C:\Users\User\project_based Dropbox\Wooserk Park\wooserk&rahul\COVID-19_Analysis"
-global datainput = "C:\Users\User\project_based Dropbox\Wooserk Park\wooserk&rahul\COVID-19_Analysis\03_data_collection"
-global dataoutput = "C:\Users\User\project_based Dropbox\Wooserk Park\wooserk&rahul\COVID-19_Analysis\02_data_cleaning"
 ********************************************************************************
 ** 1. Cleaning Data **
 ********************************************************************************
