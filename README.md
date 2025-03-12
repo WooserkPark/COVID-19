@@ -1,7 +1,7 @@
 # COVID-19 Analysis Project
 
 ## Map Sample: https://wooserkpark.github.io/COVID-19/
-This sample map illustrates the amount of financial assistance provided at the county level as part of the federal response to the COVID-19 pandemic. 
+This sample heat map illustrates the amount of financial assistance provided at the county level as part of the federal response to the COVID-19 pandemic. 
 
 ## Introduction (Will be updated):
 
