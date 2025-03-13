@@ -33,11 +33,10 @@ This sample heat map illustrates the amount of financial assistance provided at 
 ![time series contracts](https://github.com/user-attachments/assets/437cd4b7-8634-4a4a-92f4-abc3f2fadbc7)
 
 ### Spending Breakdown by Category and State
+### Explore the other maps (interactive map link: https://www.wooserkpark.com/projects/opportunityproject)
 
 #### Financial Assistance
 ![state level financialassistance](https://github.com/user-attachments/assets/5c8cdd80-f66f-4f4d-87bf-79c8d5f5dd6d)
-
-#### Explore the other maps (interactive map link: https://www.wooserkpark.com/projects/opportunityproject)
 
 #### COVID-19 Cases
 01_Stata:
