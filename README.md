@@ -33,27 +33,13 @@ This sample heat map illustrates the amount of financial assistance provided at 
 ![time series contracts](https://github.com/user-attachments/assets/437cd4b7-8634-4a4a-92f4-abc3f2fadbc7)
 
 ### Spending Breakdown by Category and State
-#### Explore the interactive map (Link: https://www.wooserkpark.com/projects/opportunityproject)
 
 #### Financial Assistance
 ![state level financialassistance](https://github.com/user-attachments/assets/5c8cdd80-f66f-4f4d-87bf-79c8d5f5dd6d)
 
-#### Paycheck Protection Program
-![state level ppp](https://github.com/user-attachments/assets/618c4b2e-f342-43ad-816c-19209989698e)
+#### Explore the other maps (interactive map link: https://www.wooserkpark.com/projects/opportunityproject)
 
-#### Government Contracts
-![state level contract](https://github.com/user-attachments/assets/04ed1daf-6151-49f6-8b22-11ceb782d8fc)
-
-#### Unemployment Compensation
-![state level unempcomp](https://github.com/user-attachments/assets/b5374a10-4a12-4213-b8e9-8bece18b0ddd)
-
-#### Economic Impact Payments
-![state level eip](https://github.com/user-attachments/assets/b9a48221-0e12-4668-88eb-f8da6565386e)
-
-#### Health and Human Services Funding
-![state level hhs](https://github.com/user-attachments/assets/a2f9bca7-34fd-477a-b0ec-b03822b4fab2)
-
-### COVID-19 Cases
+#### COVID-19 Cases
 01_Stata:
 cleaning process of the US COVID-19 cases/deaths/recoveries using the Johns Hopkins University (JHU) Center for Systems Science and Engineering Repository (https://github.com/CSSEGISandData). In this folder, daily/weekly do-file collects JHU's COVID-19 data sets, produces daily/weekly dta files, and exports "by state" summary statistics. Also, attached the dta files.
 02_Summary_data:
